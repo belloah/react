@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#dadaBody h1,
+#readme h1,
+#dummy {
+    display: none;
+}
+
+#dadaBody h2,
+#readme h2 {
+    font-size: large;
+}
